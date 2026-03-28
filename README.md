@@ -3,16 +3,12 @@
 
 
 ⚙️ 环境要求
-必需的Python包
-pip install PyPDF2
-pip install langchain-text-splitters
-pip install langchain-community
-pip install faiss-cpu
+配置必需的Python包
 环境变量
 需要拥有阿里云DashScope API密钥并设置为系统环境：
-# Windows
+Windows
 set DASHSCOPE_API_KEY=your_api_key_here
-# Linux/Mac
+Linux/Mac
 export DASHSCOPE_API_KEY=your_api_key_here
 
 
